@@ -9,24 +9,13 @@
     </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
-
 ###
-
 <h3 align="left">⭐ About me</h3>
-
 ###
-
 <p align="left">Я frontend-разработчик, для которого веб - это способ объединить эстетику и функциональность. У меня горят глаза, когда я открываю для себя новые технологии и сразу применяю их в проектах. Для меня код - это не просто строки, а способ превращать идеи в реальный продукт. Всегда открыта к новым вызовам, открытию и сотрудничеству 🚀</p>
-
 ###
-
 <h3 align="left">💻 Stack:</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -37,10 +26,8 @@
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
 </div>
-
 ###
 <h3 align="left">📚 Currently learning:</h3>
-
 ###
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
